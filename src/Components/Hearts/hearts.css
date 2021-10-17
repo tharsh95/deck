@@ -1,0 +1,10 @@
+.hearts{
+    width: 25px;
+    height: 200px;
+    background-color: white;
+    border-radius: 8px;
+    color: red;
+    position: relative;
+    /* left: 20%; */
+    /* bottom: 180%; */
+}
